@@ -1,0 +1,188 @@
+
+.azeret-mono-font {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.bg_img{
+    background-image: url(assets/Hero-bg.png);
+}
+.header_style{
+    margin-top: 74px;
+    margin-right: 250px;
+    margin-left: 250px;
+    text-align: center;
+}
+.common_p_color{
+    color: #6C7486;
+    font-size: 14px;
+    
+}
+.common_p_color1{
+    font-size: 14px;
+}
+header div h1{
+    font-weight: bold;
+}
+.header_btn{
+    padding: 15px 19px;
+    margin-bottom: 30px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+header div img{
+    margin-top: 20px;
+}
+
+.common_center_text{
+    text-align: center;
+}
+main {
+    margin: 50px 100px;
+    background-color: #FAFAFB;
+    border-radius: 14px;
+}
+.main_div_padding{
+    padding: 70px 80px;
+    
+}
+.main_h3_p_margin{
+    margin: 0px 40px 42px 40px;
+}
+.common_color_div{
+    background-color: white;
+    border-radius: 14px;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    padding: 13px;
+    gap: 200px;
+    padding-left: 30px;
+}
+    
+.common_color_div_1{
+    background-color: white;
+    border-radius: 14px;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    padding: 13px;
+    gap: 35px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.common_btn{
+    padding: 10px 16px;
+    background-color: white;
+    font-weight:bold;
+    margin-top: 20px;
+}
+.img{
+    
+    height: 200px ;
+}
+.margin_div_2{
+    margin-right: 250px;
+}
+.section_style {
+    margin: 50px 100px;
+    border-radius: 14px;
+    text-align: center;
+}
+.section_div_style{
+    margin: 0px 200px 45px 200px;
+}
+iframe{
+    width: 970px;
+    height: 550px;
+    padding:30px;
+    border: 2px solid #bdc4d3;
+    border-radius: 14px;
+}
+.section2{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    margin: 50px 105px 50px 105px;
+
+}
+.html_style{
+    background-color: #FEF6F4;
+    margin: 10px;
+    padding: 30px;
+    border-radius: 14px;
+}
+.css_style{
+    background-color: #F2F6FE;
+    margin: 10px;
+    padding: 30px;
+    border-radius: 14px;
+}
+.javascript_style{
+    background-color: #FFFDF2;
+    margin: 10px;
+    padding: 30px;
+    border-radius: 14px;
+}
+.section2_div_style{
+    margin: 50px 140px 50px 140px;
+}
+.section3{
+    margin: 50px 105px 50px 105px;
+    text-align: center;
+    background-image: url(assets/handshake.jpg);
+    color: white;
+    border-radius: 14px;
+    padding: 60px 40px;
+    background-size: cover;
+    background-position: center;
+    height: 120px;
+.section3_div{
+    padding-bottom: 50px;
+    
+
+}
+}
+.section3_h_p{
+    margin: 0px 210px 20px 210px;
+}
+
+input{
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.input1{
+    width: 400px;
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    margin-left: 110px;
+    margin-right: 110px;
+    
+}
+nav ul{
+    display:flex;
+    align-items:center;
+}
+nav ul li{
+    list-style:none;
+    margin-right:10px;
+}
+.ankor{
+   text-decoration:none;
+   style:none;
+   color:blue;
+   font-weight:bold;
+}  
+footer{
+margin: 0px;
+background-color:#F8F8F8;
+}
