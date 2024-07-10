@@ -177,12 +177,13 @@ nav ul li{
     margin-right:10px;
 }
 .ankor{
-   text-decoration:none;
-   style:none;
-   color:blue;
-   font-weight:bold;
-}  
-footer{
-margin: 0px;
-background-color:#F8F8F8;
-}
+    text-decoration:none;
+    style:none;
+    color:blue;
+    font-weight:bold;
+ }  
+ footer{
+ margin: 0px;
+ background-color:#F8F8F8;
+ }
+ 
